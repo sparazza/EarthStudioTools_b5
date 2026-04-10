@@ -25,8 +25,8 @@ bl_info = {
     "name": "Earth Studio",
     "author": "Rob Jolly - Imagiscope",
     "description": "Earth Studio Tools Addon",
-    "blender": (2, 80, 0),
-    "version": (1, 2, 2),
+    "blender": (5, 0, 1),
+    "version": (1, 2, 3),
     "location": "View3D",
     "warning": "",
     "category": "Import-Export"
